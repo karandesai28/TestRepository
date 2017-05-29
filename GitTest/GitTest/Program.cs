@@ -12,6 +12,7 @@ namespace GitTest
         {
             Console.Write("Gits");
             Console.WriteLine("Changes by Karan Branch");
+            Console.WriteLine("Changes in master branch");
             Console.Read();
         }
     }
