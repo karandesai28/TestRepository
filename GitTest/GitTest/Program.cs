@@ -11,6 +11,7 @@ namespace GitTest
         static void Main(string[] args)
         {
             Console.Write("Gits");
+            Console.WriteLine("Changes by Karan Branch");
             Console.Read();
         }
     }
