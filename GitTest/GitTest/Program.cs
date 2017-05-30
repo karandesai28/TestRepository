@@ -18,6 +18,9 @@ namespace GitTest
             Console.WriteLine("Changes by Rajdeep Branch");
 
             Console.WriteLine("Another change in new karan branch");
+
+            Console.WriteLine("Changes by Rajdeep Branch");
+
             Console.Read();
         }
     }
