@@ -15,6 +15,10 @@ namespace GitTest
             Console.WriteLine("Changes in master branch");
             Console.WriteLine("Changes in master branch latest");
             Console.WriteLine("Another change in new karan branch");
+
+            Console.WriteLine("Changes by Karan Branch 2");
+
+
             Console.Read();
         }
     }
