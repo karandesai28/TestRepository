@@ -12,6 +12,7 @@ namespace GitTest
         {
             Console.WriteLine("Charizard");
             Console.WriteLine("Pikachu");
+            Console.WriteLine("Bulbasaur");
             Console.Read();
         }
     }
